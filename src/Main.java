@@ -12,5 +12,7 @@ public class Main {
         System.out.println(gatito.moverse());
         System.out.println(delfi.moverse());
 
+        //prueba de comandos
+
     }
 }
