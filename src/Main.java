@@ -4,7 +4,7 @@ import animales.Gato;
 
 public class Main {
     public static void main(String[] args) {
-        //creacion de animales
+        //creacion de animales (prueba)
         Gato gatito = new Gato("pepo","blanco", 2.0, 0.75, true);
         Delfin delfi = new Delfin();
 
